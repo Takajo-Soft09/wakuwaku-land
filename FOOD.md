@@ -13,7 +13,7 @@
 
 店内へと続く道
 
-<img src="YUKA0I9A8632_TP_V.jpg" alt="食べ物" title="食べ物" width="200" height="200" />
+<img src="https___www.pakutaso.com_shared_img_thumb_gunma-IMG_7940.jpg" alt="食べ物" title="食べ物" width="200" height="200" />
 
 店内の様子
 
