@@ -5,7 +5,7 @@
    
 　　　決して良質な物はなく、囚人の気分が味わえる。当然料金は無料。
 
-イメージ図
+料理
 
 <img src="YUKA0I9A8632_TP_V.jpg" alt="食べ物" title="食べ物" width="200" height="200" />
 <img src="https___www.pakutaso.com_shared_img_thumb_abra193003741.jpg" alt="食べ物" title="食べ物" width="200" height="200" />
