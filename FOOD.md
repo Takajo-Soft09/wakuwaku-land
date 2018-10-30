@@ -9,3 +9,4 @@
 
 <img src="ごはん画像１.png" alt="食べ物" title="食べ物" width="200" height="200" />
 <img src="ご飯画像３.png" alt="食べ物" title="食べ物" width="200" height="200" />
+<img src="" alt="食べ物" title="食べ物" width="200" height="200" />
